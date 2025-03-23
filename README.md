@@ -16,10 +16,10 @@ Bu proje, bir şehirdeki metro ağı üzerinde **en az aktarmalı** ve **en kıs
 
 # 🎬 Örnek Çıktılar
 
-Uygulama çalıştırıldığında çeşitli test senaryoları için hem en az aktarmalı hem de en hızlı rotalar şu şekilde görüntülenir:
-( AŞTİ'den OSB'ye:
-En az aktarmalı rota: AŞTİ -> Kızılay -> Ulus -> Demetevler -> OSB
-En hızlı rota (19 dakika): AŞTİ -> Kızılay -> Ulus -> Demetevler -> OSB )
+Uygulama çalıştırıldığında çeşitli test senaryoları için hem en az aktarmalı hem de en hızlı rotalar şu şekilde görüntülenir:  
+AŞTİ'den OSB'ye:  
+En az aktarmalı rota: AŞTİ -> Kızılay -> Ulus -> Demetevler -> OSB  
+En hızlı rota (19 dakika): AŞTİ -> Kızılay -> Ulus -> Demetevler -> OSB  
 
 ---
 
